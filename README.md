@@ -1,5 +1,5 @@
 <!--
-  <<< Author notes: Header of the course >>>
+  <<< Author notes: Header of the course :) >>>
   Include a 1280x640 image, course title in sentence case, and a concise description in emphasis.
   In your repository settings: enable template repository, add your 1280x640 social image, auto delete head branches.
   Add your open source license, GitHub uses Creative Commons Attribution 4.0 International.
@@ -251,7 +251,7 @@ Here's a recap of all the tasks you've accomplished in your repository:
 
 <!--
   <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
+  Add a link to get support, GitHub status page, code of conduct, license link. 
 -->
 
 ---
